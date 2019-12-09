@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+#header {
+    align-items: center;
+    display: flex;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 90px;
+    justify-content: center;
+    margin: 100px 0px 0px 0px;
+}
+
+a {
+    color: whitesmoke;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: rgb(252, 233, 130);
+}
+
+#galleryone {
+    align-items: center;
+    display: flex;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 45px;
+    justify-content: center;
+    margin: 75px 0px 20px 0px;
+}
+
+#gallerytwo {
+    align-items: center;
+    display: flex;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 45px;
+    justify-content: center;
+    margin: 0px 0px 20px 0px;
+}
+
+#gallerythree {
+    align-items: center;
+    display: flex;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 45px;
+    justify-content: center;
+    margin: 0px 0px 20px 0px;
+}
+
+#galleryfour {
+    align-items: center;
+    display: flex;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 45px;
+    justify-content: center;
+    margin: 0px 0px 20px 0px;
+}
+
+#galleryfive {
+    align-items: center;
+    display: flex;
+    font-family: 'Lexend Mega', sans-serif;
+    font-size: 45px;
+    justify-content: center;
+    margin: 0px 0px 20px 0px;
+}
